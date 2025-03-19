@@ -1,0 +1,55 @@
+Explication des Analyses et Visualisations |
+                                           |
+--------------------------------------------
+
+Objectif : Explorer la relation entre le prix des livres et leurs notes.
+
+Graphique : Un nuage de points (scatterplot) est utilisé pour montrer la relation entre deux variables numériques (prix et note).
+
+Couleurs : Les points sont colorés en fonction de la catégorie du livre (hue="categorie"), ce qui permet de voir si certaines catégories ont des tendances spécifiques.
+
+Palette de couleurs : Set2 (une palette de couleurs distinctes pour chaque catégorie).
+
+Titre et axes :
+
+Titre : "Corrélation entre le Prix et la Note".
+
+Axe X : "Prix (£)" (le prix des livres).
+
+Axe Y : "Note" (la note attribuée aux livres).
+
+Légende : Une légende est ajoutée pour identifier les catégories de livres.
+
+Interprétation :
+
+Ce graphique permet de voir s'il existe une relation entre le prix d'un livre et sa note.
+
+------------------------------------------------------------------------
+
+Résumé des Analyses
+Distribution des Notes :
+
+Montre combien de livres ont reçu chaque note.
+
+Permet de voir si les livres sont généralement bien notés (notes élevées) ou mal notés (notes basses).
+
+Corrélation entre le Prix et la Note :
+
+Explore la relation entre le prix des livres et leurs notes.
+
+Permet de voir si les livres plus chers ont tendance à être mieux notés.
+
+Les couleurs indiquent la catégorie des livres, ce qui permet de voir si certaines catégories ont des tendances spécifiques.
+
+Exemple d'Interprétation des Résultats
+Distribution des Notes :
+
+Si la plupart des livres ont des notes de 4 ou 5, cela signifie que les lecteurs sont généralement satisfaits.
+
+Si les notes sont réparties de manière uniforme, cela indique une diversité d'opinions.
+
+Corrélation entre le Prix et la Note :
+
+Si les points sont dispersés sans tendance claire, cela signifie qu'il n'y a pas de corrélation forte entre le prix et la note.
+
+Si les livres plus chers ont tendance à être mieux notés, cela pourrait indiquer que les lecteurs sont prêts à payer plus pour des livres de meilleure qualité.
